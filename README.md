@@ -3,10 +3,10 @@ The Programming Trends Analysis project aims to identify trends and patterns in 
 Usage Instructions:
 This project can be utilized to gain insights into programming trends, which will enable firms to make strategic budget decisions and allocate resources effectively. It provides valuable information on current and emerging technologies to guide future investments and training initiatives.
 
+Acknowledgements: This is a Capstone Project included in Data Analysts Professional Certification issued by IBM. Every code and dashboard is made by me without help just practising the knowledge i gained through this certification.
+
 Contact Information:
 For any questions or feedback regarding this project, please reach out to:
-
-Acknowledgements: This is a Capstone Project included in Data Analysts Professional Certification issued by IBM. Every code and dashboard is made by me without help just practising the knowledge i gained through this certification.
 
 Koukorempas Vasilis
 
