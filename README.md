@@ -6,6 +6,8 @@ This project can be utilized to gain insights into programming trends, which wil
 Contact Information:
 For any questions or feedback regarding this project, please reach out to:
 
+Acknowledgements: This is a Capstone Project included in Data Analysts Professional Certification issued by IBM. Every code and dashboard is made by me without help just practising the knowledge i gained through this certification.
+
 Koukorempas Vasilis
 
 Email: bkoukorempas@gmail.com
